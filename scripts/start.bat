@@ -1,5 +1,5 @@
 @echo off
 
-start /b calc
+start calc
 
 exit 0
