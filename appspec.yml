@@ -17,7 +17,7 @@ hooks:
       timeout: 300
       runas: Administrator
   ApplicationStart:
-    - location: scripts/start.ps1
+    - location: scripts/start.bat
       timeout: 300
       runas: Administrator
   ValidateService:
